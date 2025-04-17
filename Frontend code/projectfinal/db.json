@@ -1,0 +1,90 @@
+{
+  "signup": [
+    {
+      "id": "1",
+      "email": "koteswararaokusumanchi43@gmail.com",
+      "password": "Koti@8897"
+    }
+  ],
+  "tasks": [],
+  "birthday": [
+    {
+      "name": "Koteswararao",
+      "email": "koteswararaokusumanchi43@gmail.com",
+      "DateofBirth": "23-12",
+      "image": "https://easy-peasy.ai/cdn-cgi/image/quality=80,format=auto,width=700/https://fdczvxmwwjwpwbeeqcth.supabase.co/storage/v1/object/public/images/50dab922-5d48-4c6b-8725-7fd0755d9334/3a3f2d35-8167-4708-9ef0-bdaa980989f9.png",
+      "id": "055a"
+    },
+    {
+      "name": "Suresh Kumar",
+      "email": "suresh.kumar@example.com",
+      "DateofBirth": "26-12",
+      "image": "https://easy-peasy.ai/cdn-cgi/image/quality=80,format=auto,width=700/https://fdczvxmwwjwpwbeeqcth.supabase.co/storage/v1/object/public/images/50dab922-5d48-4c6b-8725-7fd0755d9334/3a3f2d35-8167-4708-9ef0-bdaa980989f9.png",
+      "id": "d54f"
+    },
+    {
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "DateofBirth": "17-12",
+      "image": "https://easy-peasy.ai/cdn-cgi/image/quality=80,format=auto,width=700/https://fdczvxmwwjwpwbeeqcth.supabase.co/storage/v1/object/public/images/50dab922-5d48-4c6b-8725-7fd0755d9334/3a3f2d35-8167-4708-9ef0-bdaa980989f9.png",
+      "id": "acae"
+    },
+    {
+      "name": "Jane Smith",
+      "email": "janesmith@example.com",
+      "DateofBirth": "15-12",
+      "image": "https://easy-peasy.ai/cdn-cgi/image/quality=80,format=auto,width=700/https://fdczvxmwwjwpwbeeqcth.supabase.co/storage/v1/object/public/images/50dab922-5d48-4c6b-8725-7fd0755d9334/3a3f2d35-8167-4708-9ef0-bdaa980989f9.png",
+      "id": "d32b"
+    }
+  ],
+  "sessions": [
+    {
+      "name": "Koteswararao",
+      "email": "koteswararaokusumanchi43@gmail.com",
+      "date": "27-12",
+      "topic": "React",
+      "image": "https://easy-peasy.ai/cdn-cgi/image/quality=80,format=auto,width=700/https://fdczvxmwwjwpwbeeqcth.supabase.co/storage/v1/object/public/images/50dab922-5d48-4c6b-8725-7fd0755d9334/3a3f2d35-8167-4708-9ef0-bdaa980989f9.png",
+      "file": null,
+      "id": "01ed"
+    },
+    {
+      "name": "Suresh Kumar",
+      "email": "suresh.kumar@example.com",
+      "date": "18-12",
+      "topic": "Javascript",
+      "image": "https://easy-peasy.ai/cdn-cgi/image/quality=80,format=auto,width=700/https://fdczvxmwwjwpwbeeqcth.supabase.co/storage/v1/object/public/images/50dab922-5d48-4c6b-8725-7fd0755d9334/3a3f2d35-8167-4708-9ef0-bdaa980989f9.png",
+      "file": null,
+      "id": "05f6"
+    },
+    {
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "date": "17-12",
+      "topic": "Python",
+      "image": "https://easy-peasy.ai/cdn-cgi/image/quality=80,format=auto,width=700/https://fdczvxmwwjwpwbeeqcth.supabase.co/storage/v1/object/public/images/50dab922-5d48-4c6b-8725-7fd0755d9334/3a3f2d35-8167-4708-9ef0-bdaa980989f9.png",
+      "file": null,
+      "id": "42b4"
+    },
+    {
+      "name": "Jane Smith",
+      "email": "janesmith@example.com",
+      "date": "01-12",
+      "topic": "Java",
+      "image": "https://easy-peasy.ai/cdn-cgi/image/quality=80,format=auto,width=700/https://fdczvxmwwjwpwbeeqcth.supabase.co/storage/v1/object/public/images/50dab922-5d48-4c6b-8725-7fd0755d9334/3a3f2d35-8167-4708-9ef0-bdaa980989f9.png",
+      "file": null,
+      "id": "47ba"
+    }
+  ],
+  "Articles": [
+    {
+      "id": "6d91",
+      "title": "kohli",
+      "content": "born 5 November 1988) is an Indian international cricketer who plays Test and ODI cricket for the Indian national team. A former captain in all formats of the game, Kohli retired from the T20I format following India's win at the 2024 T20 World Cup. He's a right-handed batsman and an occasional unorthodox right arm quick bowler. Kohli holds the highest IPL run-scorer record, ranks third in T20I, third in ODI, and stands the fourth-highest in international cricket.[4] Regarded as one of the greatest batsmen of all time, he also holds the record for scoring the most centuries in ODI cricket and is second in the list of most international centuries scored in international cricket"
+    },
+    {
+      "id": "fcfd",
+      "title": "rohit sharama",
+      "content": "Rohit Sharma (born 30 April 1987) is an Indian international cricketer who currently plays for and captains the India national cricket team in Test and ODI matches. He previously captained in T20 matches and in the country's 2024 T20 World Cup win after which he retired from T20s in June.[3][4] He is considered as one of the best batsmen of his generation and one of the greatest white-ball opening batters of all time.[5]"
+    }
+  ]
+}
